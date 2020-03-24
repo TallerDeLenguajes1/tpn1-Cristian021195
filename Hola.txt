@@ -1,2 +1,4 @@
 asdasddsg
 ¿que tal?
+
+ren gitignore.txt .gitignore
