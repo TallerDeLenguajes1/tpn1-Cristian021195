@@ -1,6 +1,9 @@
 asdasddsg
-¿que tal?
+Â¿que tal?
 
 ren gitignore.txt .gitignore
 
 mostrando
+
+
+asd
